@@ -1,0 +1,44 @@
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.deps.json
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.runtimeconfig.json
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.runtimeconfig.dev.json
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.dll
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.csprojResolveAssemblyReference.cache
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.csproj.CoreCompileInputs.cache
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.AssemblyInfoInputs.cache
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.AssemblyInfo.cs
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.pdb
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.dll
+C:\Users\dorit\Documents\לימודים\מכללת לפיד\Forum\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.pdb
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.deps.json
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.runtimeconfig.json
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.runtimeconfig.dev.json
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.dll
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.pdb
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.AssemblyInfo.cs
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.dll
+C:\Users\user\Desktop\BeautyForum\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.pdb
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.deps.json
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.runtimeconfig.json
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.runtimeconfig.dev.json
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.dll
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.pdb
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.csprojResolveAssemblyReference.cache
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.csproj.CoreCompileInputs.cache
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.AssemblyInfoInputs.cache
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.AssemblyInfo.cs
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.dll
+E:\לימודים\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\מחשבים\תיכנות\פרויקט גמר\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.pdb
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.deps.json
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.runtimeconfig.json
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.runtimeconfig.dev.json
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.dll
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\bin\Debug\netcoreapp2.0\BeautyForum.pdb
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.csprojResolveAssemblyReference.cache
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.csproj.CoreCompileInputs.cache
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.AssemblyInfoInputs.cache
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.AssemblyInfo.cs
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.dll
+E:\פיתוח יצירת וניהול קריירה, CAREER DEVELOPMENT\קורסים\קורס פולסטאק שעשיתי דרך לשכת התעסוקה\CodeExamples\ASP.NET\פרויקט גמר, פורום\BeautyForum\BeautyForum\obj\Debug\netcoreapp2.0\BeautyForum.pdb
