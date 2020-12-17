@@ -1,0 +1,6 @@
+C:\Users\nasti\source\repos\c# project\bank2\bank_project\bank_project\bin\Debug\bank_project.exe
+C:\Users\nasti\source\repos\c# project\bank2\bank_project\bank_project\bin\Debug\bank_project.pdb
+C:\Users\nasti\source\repos\c# project\bank2\bank_project\bank_project\obj\Debug\bank_project.csprojResolveAssemblyReference.cache
+C:\Users\nasti\source\repos\c# project\bank2\bank_project\bank_project\obj\Debug\bank_project.csproj.CoreCompileInputs.cache
+C:\Users\nasti\source\repos\c# project\bank2\bank_project\bank_project\obj\Debug\bank_project.exe
+C:\Users\nasti\source\repos\c# project\bank2\bank_project\bank_project\obj\Debug\bank_project.pdb
