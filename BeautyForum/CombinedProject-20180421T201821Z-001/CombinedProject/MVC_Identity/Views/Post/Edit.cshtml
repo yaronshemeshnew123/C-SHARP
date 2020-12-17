@@ -1,0 +1,59 @@
+﻿@model MVC_Identity.Models.Post
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+<h4>Post</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Post" asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div hidden class="form-group">
+                <label asp-for="ForumID" class="control-label"></label>
+                <select asp-for="ForumID" class="form-control" asp-items="ViewBag.ForumID"></select>
+                <span asp-validation-for="ForumID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div hidden class="form-group">
+                <label asp-for="DateAdded" class="control-label"></label>
+                <input asp-for="DateAdded" class="form-control" />
+                <span asp-validation-for="DateAdded" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Massage" class="control-label"></label>
+                <input asp-for="Massage" class="form-control" />
+                <span asp-validation-for="Massage" class="text-danger"></span>
+            </div>
+            <div hidden class="form-group">
+                <label asp-for="PublisherID" class="control-label"></label>
+                <input asp-for="PublisherID" class="form-control" />
+                <span asp-validation-for="PublisherID" class="text-danger"></span>
+            </div>
+            <div hidden class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="IsVisible" /> @Html.DisplayNameFor(model => model.IsVisible)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
